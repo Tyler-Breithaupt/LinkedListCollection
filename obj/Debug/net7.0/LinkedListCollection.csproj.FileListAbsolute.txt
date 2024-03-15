@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/bin/Debug/net7.0/LinkedListCollection
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/bin/Debug/net7.0/LinkedListCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/bin/Debug/net7.0/LinkedListCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/bin/Debug/net7.0/LinkedListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/bin/Debug/net7.0/LinkedListCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/refint/LinkedListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/LinkedListCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/LinkedListCollection/obj/Debug/net7.0/ref/LinkedListCollection.dll
